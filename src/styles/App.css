@@ -1,0 +1,16 @@
+.loading-img {
+    width: 256px;
+    height: 256px;
+    margin: 50px auto;
+}
+
+.loading-img img {
+    width: 100%;
+    height: auto;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
